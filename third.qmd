@@ -1,0 +1,7 @@
+---
+title: "This is the third page"
+---
+
+Hello this is a third page
+
+[Here](my-file.qmd) you can find an external file on which I had been working in the past few days

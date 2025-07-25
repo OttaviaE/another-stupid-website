@@ -1,5 +1,10 @@
 ---
-title: "another-stupid-website"
+title: "This is my first website"
+format: 
+  html:
+    theme:
+      - minty
+      - brand
 ---
 
 This is a Quarto website.
@@ -9,3 +14,4 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
